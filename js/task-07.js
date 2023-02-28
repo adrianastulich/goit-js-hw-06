@@ -5,5 +5,3 @@ inputContent.addEventListener("input", () => {
     outputText.style.fontSize = `${inputContent.value}px`;
 });
 
-
-dffff
